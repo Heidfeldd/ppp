@@ -1,0 +1,167 @@
+header{
+	height: 210px;
+	width: 100%;
+	background-image: url("images/header.png");
+	padding-top: 100px;
+}
+.title{
+	margin-left: 40%;
+	text-decoration: underline;
+	text-shadow: 0px 0px 5px black;
+}
+.box1{
+	height: 2000px;
+	width: 20%;
+	background: linear-gradient(black, gray);
+	display: inline-block;
+	box-sizing: border-box;
+	padding-top: 20px;
+	overflow: hidden;
+}
+.box2{
+	height: 2000px;
+	width: 80%;
+	background: linear-gradient(gray, silver);
+	display: inline-block;
+	margin-left: -5px;
+	box-sizing: border-box;
+	overflow: hidden;
+	padding: 20px;
+}
+ul{
+	margin: 0;
+	color: white;
+}
+ul li{
+	list-style-type: none;
+	padding: 10px;
+	width: 200px;
+}
+ul li:hover{
+	background: gray;
+}
+footer{
+	background: black;
+	height: 100px;
+	width:100%;
+	color:gray;
+	padding: 10px;
+	margin-top: -5px;
+}
+.footerkitty{
+	height: 100px;
+	width: 100px;
+	float: right;
+	margin: 0;
+}
+.dog1{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black double;
+}
+.dog1:hover{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black solid;
+}
+.dog2{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black double;
+}
+.dog2:hover{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black solid;
+}
+.dog3{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black double;
+}
+.dog3:hover{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black solid;
+}
+.dog4{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black double;
+}
+.dog4:hover{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black solid;
+}
+.dog5{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black double;
+}
+.dog5:hover{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 8px black solid;
+}
+figure{
+	display: inline-block;
+	margin: 5px;
+}
+figcaption{
+	text-align: center;
+}
+figure:hover{
+	display: inline-block;
+	margin: 5px;
+	font-weight: bold;
+}
+*{
+	margin: 0;
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+	text-decoration: none;	
+	text-shadow: 0px 0px 3px white;
+}
+a:active{
+	color: white;
+	text-decoration: none;
+	text-shadow: 0px 0px 5px white;
+}
+.home{
+	height: 50px;
+	width: 500px;
+	border: 2px black solid;
+	text-align: center;
+	padding-top: 20px;
+	margin: auto;
+	margin-top: 50px;
+}
+.home:hover{
+	background: black;
+}
+h2{
+	color: black;
+}
+h2:hover{
+	color: white;
+}
